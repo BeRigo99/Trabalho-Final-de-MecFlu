@@ -16,7 +16,7 @@
 #define HOUR 3600               //1 hora = 3600s
 #define DENSITY 1000            //kg/m^3
 #define VISCOSITY 0.0017        //Pa * s
-#define ABSROUGHNESS 0.00001    //Rugosidade absoluta de tubo de aço trefilado em m
+#define ABSROUGHNESS 0.00001    //Rugosidade absoluta de tubo de aÃ§o trefilado em m
 #define G 9.81                  //m/s^2
 #define FPUMP 7                 //Fator de custo da bomba
 #define ELECBILL 0.75           //Custo em R$/kWh
